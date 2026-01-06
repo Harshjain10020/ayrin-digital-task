@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Harsh Jain",
+    "email": "jainharsh2929@gmail.com",
+    "subject": "General Inquiry",
+    "message": "test test test",
+    "createdAt": "2026-01-06T15:43:28.206Z"
+  },
+  {
+    "id": 2,
+    "name": "Harsh Jain",
+    "email": "jainharsh2929@gmail.com",
+    "subject": "Other",
+    "message": "yo yoy yooy yoyoyo",
+    "createdAt": "2026-01-06T15:47:49.008Z"
+  }
+]
