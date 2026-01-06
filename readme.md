@@ -77,6 +77,14 @@ The frontend is configured to call the backend at http://localhost:3001.
 3. On success, a thank you message is shown.
 4. Switch to the Admin View to see all stored submissions.
 
+## Screenshots
+
+### Contact Form
+![Contact Form](screenshots/contact-form.png)
+
+### Admin View
+![Admin View](screenshots/admin-view.png)
+
 ## Possible Improvements
 
 - Better styling and responsive layout.
